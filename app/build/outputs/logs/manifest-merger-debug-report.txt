@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/760456a1aa780c7ab6dd642cb9fa7652/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/a660b885cab9cae17bb423a9267ac94a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/bdfef7e0960f8db266b2fbb181f2b502/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/55e90e8109048032d2fb978ddeacc362/AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/73d21f3c1aaab2f2ea058861a50234c4/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/1dfc09821f7c875b779d8dc4e80445b2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/75cfccfdd1cdbc4695cc0a22d70deee9/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/76fec34706756f999dd972715cb8b306/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/82616a3e88cfc2cca47e68c9630eb03d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/3434962655dffc3d921e5d2113f60cde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/5b18d3ac04a40de5239936fc6f077293/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/7355c8ca198448b4ce91c18dba417523/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/99bc36272568814aca78d5b9434fc2bd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/77b5f4931dbafffcb0efa23e7047aa30/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/25213066dc5a01af8783c234541c27a5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/3cbb92e639f20dcbb47a4d691533107e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/04ee2e3ed5df88f1a0aec6f5d15982af/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/9aa0993bc6f0e61ffb3a867979adf2dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/ab0bb2030bb9aa3a76c549577712887a/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/9895e4de1b473448453aaaa38cdc4300/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/393b1b9bcf6df48cb95c7215af75b88f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/d48c3a67e5c4a87a5dc4d1d942595ecf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/743b1f1be043e243f32bf8afcb4c1016/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/567cb183e0c60f46d00bcc12f781e64c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/3a6bd1bf31ae90cdddfcaf35f801ce2f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/22a4e274200aeb39144c99d4a890b347/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:4:11-65
+		INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/760456a1aa780c7ab6dd642cb9fa7652/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/760456a1aa780c7ab6dd642cb9fa7652/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/a660b885cab9cae17bb423a9267ac94a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/a660b885cab9cae17bb423a9267ac94a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/bdfef7e0960f8db266b2fbb181f2b502/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/bdfef7e0960f8db266b2fbb181f2b502/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/55e90e8109048032d2fb978ddeacc362/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/55e90e8109048032d2fb978ddeacc362/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/73d21f3c1aaab2f2ea058861a50234c4/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/73d21f3c1aaab2f2ea058861a50234c4/AndroidManifest.xml:5:5-6:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/1dfc09821f7c875b779d8dc4e80445b2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/1dfc09821f7c875b779d8dc4e80445b2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/75cfccfdd1cdbc4695cc0a22d70deee9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/75cfccfdd1cdbc4695cc0a22d70deee9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/76fec34706756f999dd972715cb8b306/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/76fec34706756f999dd972715cb8b306/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/82616a3e88cfc2cca47e68c9630eb03d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/82616a3e88cfc2cca47e68c9630eb03d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/3434962655dffc3d921e5d2113f60cde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/3434962655dffc3d921e5d2113f60cde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/5b18d3ac04a40de5239936fc6f077293/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/5b18d3ac04a40de5239936fc6f077293/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/7355c8ca198448b4ce91c18dba417523/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/7355c8ca198448b4ce91c18dba417523/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/99bc36272568814aca78d5b9434fc2bd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/99bc36272568814aca78d5b9434fc2bd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/77b5f4931dbafffcb0efa23e7047aa30/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/77b5f4931dbafffcb0efa23e7047aa30/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/25213066dc5a01af8783c234541c27a5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/25213066dc5a01af8783c234541c27a5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/3cbb92e639f20dcbb47a4d691533107e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/3cbb92e639f20dcbb47a4d691533107e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/04ee2e3ed5df88f1a0aec6f5d15982af/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/04ee2e3ed5df88f1a0aec6f5d15982af/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/9aa0993bc6f0e61ffb3a867979adf2dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/9aa0993bc6f0e61ffb3a867979adf2dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/ab0bb2030bb9aa3a76c549577712887a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/ab0bb2030bb9aa3a76c549577712887a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/9895e4de1b473448453aaaa38cdc4300/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/9895e4de1b473448453aaaa38cdc4300/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/393b1b9bcf6df48cb95c7215af75b88f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/393b1b9bcf6df48cb95c7215af75b88f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/d48c3a67e5c4a87a5dc4d1d942595ecf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/d48c3a67e5c4a87a5dc4d1d942595ecf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/743b1f1be043e243f32bf8afcb4c1016/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/743b1f1be043e243f32bf8afcb4c1016/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/567cb183e0c60f46d00bcc12f781e64c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/567cb183e0c60f46d00bcc12f781e64c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/3a6bd1bf31ae90cdddfcaf35f801ce2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/3a6bd1bf31ae90cdddfcaf35f801ce2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/22a4e274200aeb39144c99d4a890b347/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/22a4e274200aeb39144c99d4a890b347/AndroidManifest.xml:20:5-44
+INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+	android:targetSdkVersion
+		INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+		INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+		MERGED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+		INJECTED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:8:3-24:17
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/760456a1aa780c7ab6dd642cb9fa7652/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/760456a1aa780c7ab6dd642cb9fa7652/AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/55e90e8109048032d2fb978ddeacc362/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/55e90e8109048032d2fb978ddeacc362/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/73d21f3c1aaab2f2ea058861a50234c4/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/73d21f3c1aaab2f2ea058861a50234c4/AndroidManifest.xml:8:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/1dfc09821f7c875b779d8dc4e80445b2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/1dfc09821f7c875b779d8dc4e80445b2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/75cfccfdd1cdbc4695cc0a22d70deee9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/75cfccfdd1cdbc4695cc0a22d70deee9/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/04ee2e3ed5df88f1a0aec6f5d15982af/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/04ee2e3ed5df88f1a0aec6f5d15982af/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/ab0bb2030bb9aa3a76c549577712887a/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/ab0bb2030bb9aa3a76c549577712887a/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/04ee2e3ed5df88f1a0aec6f5d15982af/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:13:11-37
+	android:label
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:11:11-43
+	tools:ignore
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:15:11-50
+	android:roundIcon
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:12:11-56
+	android:icon
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:10:11-45
+	android:allowBackup
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:9:11-37
+	android:theme
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:14:11-42
+activity#org.tensorflow.lite.codelabs.digitclassifier.MainActivity
+ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:17:5-23:16
+	android:exported
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:18:15-38
+	android:name
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:17:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:19:7-22:23
+action#android.intent.action.MAIN
+ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from /Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:21:19-66
+activity#com.divyanshu.draw.activity.DrawingActivity
+ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/760456a1aa780c7ab6dd642cb9fa7652/AndroidManifest.xml:12:9-14:66
+	android:theme
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/760456a1aa780c7ab6dd642cb9fa7652/AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/760456a1aa780c7ab6dd642cb9fa7652/AndroidManifest.xml:13:13-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/75cfccfdd1cdbc4695cc0a22d70deee9/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/75cfccfdd1cdbc4695cc0a22d70deee9/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/qiulongquan/.gradle/caches/transforms-2/files-2.1/75cfccfdd1cdbc4695cc0a22d70deee9/AndroidManifest.xml:24:13-58

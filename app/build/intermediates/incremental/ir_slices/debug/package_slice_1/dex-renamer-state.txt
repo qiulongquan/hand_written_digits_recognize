@@ -1,0 +1,4 @@
+#Mon Mar 30 13:35:17 JST 2020
+base.0=/Users/qiulongquan/hand_written_digits_tflite/examples-master/lite/codelabs/digit_classifier/android/start/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
